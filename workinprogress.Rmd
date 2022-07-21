@@ -1,0 +1,19 @@
+---
+title: "Work in progress"
+---
+## History of economics in Colombia
+- With [Andrés Guiot Isaac](https://lac.web.ox.ac.uk/people/andres-m.-guiot-isaac), [Jimena Hurtado](https://economia.uniandes.edu.co/hurtado), and [Camila Orozco Espinel](https://sites.google.com/view/gihpte/miembros/camila-orozco-espinel). *A prosopographical database of Colombia's economic technocracy*.
+
+## Central banks/scientization of central banks
+- With [Rebeca Gómez Betancourt](http://triangle.ens-lyon.fr/spip.php?article1356) and [Ricardo Salas Díaz](https://sites.google.com/view/gihpte/miembros/ricardo-salas-d%C3%ADaz). *Scientization and the Banco de la República, 1960s - 2000s*. [This is the beginning of what I hope will eventually become a book-length project.]
+
+- With Beatrice Cherrier, [Aurelien Goutsmedt](https://aurelien-goutsmedt.com/), Francesco Sergi, François Claveau, and Clément Fontan. *Excavating the academia/policy pipeline: economic analysis at the Bank of England pre and post crisis*. Rebuilding Macroeconomics - ESRC grant, 2019-2020. 
+
+    - Six decades of economic research at the Bank of England. [2021 WP](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)
+
+    - To change or not to change: The evolution of forecasting models at the Bank of England.
+
+## History of macro and macroeconometric modeling
+- With [Francesco Sergi](https://lipha.u-pec.fr/membres/membres-permanents/sergi-francesco) and [Antonella Rancan](https://www.google.com/url?q=http%3A%2F%2Fdocenti.unimol.it%2Findex.php%3Fu%3Dantonella.rancan%26id%3D8&sa=D&sntz=1&usg=AOvVaw1LQejk9Ul7pRmXaSBZPyRE). *Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model*. [2022 WP](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html)
+
+- With Erich Pinzón-Fuchs. *The Brookings Model Project, 1963-1972*.
