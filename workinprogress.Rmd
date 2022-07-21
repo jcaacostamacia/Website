@@ -9,11 +9,11 @@ title: "Work in progress"
 
 - With Beatrice Cherrier, Aurelien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. *Excavating the academia/policy pipeline: economic analysis at the Bank of England pre and post crisis*. Rebuilding Macroeconomics - ESRC grant, 2019-2020. 
 
-    - Six decades of economic research at the Bank of England. [2021 WP](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)
+    - Six decades of economic research at the Bank of England. [2021 WP](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline){target="_blank"}
 
     - To change or not to change: The evolution of forecasting models at the Bank of England.
 
 ## History of macro and macroeconometric modeling
-- With Francesco Sergi and Antonella Rancan. *Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model*. [2022 WP](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html)
+- With Francesco Sergi and Antonella Rancan. *Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model*. [2022 WP](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html){target="_blank"}
 
 - With Erich Pinzón-Fuchs. *The Brookings Model Project, 1963-1972*.
