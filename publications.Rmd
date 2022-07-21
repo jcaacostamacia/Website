@@ -13,6 +13,7 @@ title: "Publications"
 - Acosta, Juan, and Andrés Álvarez. 2014. *Ideas monetarias del siglo XIX en Colombia [Monetary ideas in 19th century Colombia]*. Banco de la República. [Available here](https://babel.banrepcultural.org/digital/collection/p17054coll18/id/327).
 
 ## Working papers and other publications
+- Acosta, Juan, Francesco Sergi, and Antonella Rancan. 2022. "Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model." *Economics and Statistics Discussion Paper No. 081/22. Università degli Studi del Molise, Dipartimento di Economia*. [Available here](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html)
 
 - Acosta, Juan, Beatrice Cherrier, François Claveau, Clément Fontan, Aurélien Goutsmedt, and Francesco Sergi. 2021. “Six Decades of Economic Research at the Bank of England.” *Rebuilding Macroeconomics Working Paper Series*. [Available here]( https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline).
 
