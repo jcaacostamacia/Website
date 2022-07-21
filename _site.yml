@@ -9,14 +9,14 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      menu:
-      - text: "Full CV"
-        href: https://www.dropbox.com/s/rq0yflsm07lm9hc/Acosta_CV_eng.pdf?dl=0
-      - text: "CVLAC"
-        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637596 
+      href: https://www.dropbox.com/s/rq0yflsm07lm9hc/Acosta_CV_eng.pdf?dl=0
+    - text: "CVLAC"
+      href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637596 
 output:
   html_document:
     css: columns.css
     theme: "yeti"
+    includes:
+      after_body: include_footer.html
 output_dir: "docs"
     
