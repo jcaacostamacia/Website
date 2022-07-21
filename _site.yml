@@ -15,9 +15,9 @@ navbar:
       - text: "Full CV"
         href: https://www.dropbox.com/s/rq0yflsm07lm9hc/Acosta_CV_eng.pdf?dl=0
       - text: "ORCID"
-        href: https://orcid.org/0000-0002-5051-8970
+        href: https://orcid.org/0000-0002-5051-8970 target="_blank"
       - text: "CVLAC"
-        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637596
+        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637596 
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=bZEr2FgAAAAJ&hl=en
 output:
