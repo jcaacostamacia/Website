@@ -13,7 +13,7 @@ title: "Work in progress"
 
     - To change or not to change: The evolution of forecasting models at the Bank of England.
 
-## History of macro and macroeconometric modeling
+## History of macroeconomics
 - With Francesco Sergi and Antonella Rancan. *Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model*. [2022 WP](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html){target="_blank"}
 
 - With Erich Pinzón-Fuchs. *The Brookings Model Project, 1963-1972*.
