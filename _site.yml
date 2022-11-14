@@ -10,8 +10,8 @@ navbar:
       href: publications.html
     - text: "CV"
       href: https://www.dropbox.com/s/sjr6ycoxdim5kky/Acosta_CV_En.pdf?dl=0
-    - text: "Univalle"
-      href: univalle.html
+    #- text: "Univalle"
+    #  href: univalle.html
 output:
   html_document:
     css: columns.css

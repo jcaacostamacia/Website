@@ -7,7 +7,7 @@ title: "About me"
 ::: {class='col-md-9'}
 I'm a historian  of economics at Universidad del Valle. My research focuses on the history of macroeconomics and monetary economics, the production and uses of economic knowledge in central banks, and the history of economics in Colombia. I'm part of [GIHPTE](https://sites.google.com/view/gihpte/home) and [COAPTAR](https://socioeconomia.univalle.edu.co/grupo-de-investigacion/conflicto-aprendizaje-y-teoria-de-juegos){target="_blank"}. You can find my [full CV here](https://www.dropbox.com/s/sjr6ycoxdim5kky/Acosta_CV_En.pdf?dl=0).
 
-You can reach me at juancarlos.acosta@correounivalle.edu.co or [@jcaacostamacia](https://twitter.com/jcaacostamacia).
+You can reach me at juancarlos.acosta@correounivalle.edu.co or [@jcaacostam@econtwitter.net](https://econtwitter.net/@jcaacostam).
 :::
 
 ::: {class='col-md-3'}
