@@ -1,0 +1,11 @@
+---
+title: "Univalle"
+---
+Todo el material de mis cursos en Univalle está en la plataforma de la universidad. Estos son algunos recursos adicionales que pueden ser de interés para un público más amplio.
+
+- [Introducción relámpago a *R Markdown*](IntroRMD.html).
+
+
+
+
+

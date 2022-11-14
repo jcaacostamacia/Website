@@ -9,9 +9,9 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      href: https://www.dropbox.com/s/rq0yflsm07lm9hc/Acosta_CV_eng.pdf?dl=0
-    - text: "CVLAC"
-      href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637596 
+      href: https://www.dropbox.com/s/sjr6ycoxdim5kky/Acosta_CV_En.pdf?dl=0
+    - text: "Univalle"
+      href: univalle.html
 output:
   html_document:
     css: columns.css
