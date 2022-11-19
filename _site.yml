@@ -9,7 +9,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      href: https://www.dropbox.com/s/sjr6ycoxdim5kky/Acosta_CV_En.pdf?dl=0
+      href: https://jcaacostamacia.github.io/Website/Acosta_CV_English.pdf
     #- text: "Univalle"
     #  href: univalle.html
 output:
