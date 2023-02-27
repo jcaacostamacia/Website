@@ -1,17 +1,16 @@
 ---
 title: "Work in progress"
 ---
+
 ## History of economics in Colombia
 - With Andrés Guiot Isaac, Jimena Hurtado, and Camila Orozco Espinel. *A prosopographical database of Colombia's economic technocracy*.
 
+
 ## Central banks/scientization of central banks
-- With Rebeca Gómez Betancourt and Ricardo Salas Díaz. *Scientization and the Banco de la República, 1960s - 2000s*. [This is the beginning of what I hope will eventually become a book-length project.]
+- With Rebeca Gómez Betancourt and Ricardo Salas Díaz. *Economics as expert knowledge at Colombia's Banco de la República, 1923 - 2005*. [This is the beginning of what we hope will eventually become a book-length project.]
 
-- With Beatrice Cherrier, Aurelien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. *Excavating the academia/policy pipeline: economic analysis at the Bank of England pre and post crisis*. Rebuilding Macroeconomics - ESRC grant, 2019-2020. 
+- With Beatrice Cherrier, Aurelien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. *To change or not to change. The evolution of forecasting models at the Bank of England (1974-2014)* [R&R at the *Journal of Economic Methodology*].
 
-    - Six decades of economic research at the Bank of England. [2021 WP](https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline).
-
-    - To change or not to change: The evolution of forecasting models at the Bank of England.
 
 ## History of macroeconomics
 - With Francesco Sergi and Antonella Rancan. *Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model*. [2022 WP](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html).
