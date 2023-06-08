@@ -5,7 +5,7 @@ title: "About me"
 :::: {class='fluid-row'}
 
 ::: {class='col-md-9'}
-I'm a historian  of economics at Universidad del Valle in Cali, Colombia. My research focuses on the history of macroeconomics and monetary economics, the production and uses of economic knowledge in central banks, and the history of economics in Colombia. I'm part of [GIHPTE](https://sites.google.com/view/gihpte/home) and [COAPTAR](https://socioeconomia.univalle.edu.co/grupo-de-investigacion/conflicto-aprendizaje-y-teoria-de-juegos){target="_blank"}. 
+I'm a historian  of economics at Universidad del Valle in Cali, Colombia. My research focuses on the history of macroeconomics and monetary economics, the role of economics as expert knowledge in central banks, and the history of economics in Colombia. I'm part of [GIHPTE](https://sites.google.com/view/gihpte/home) and [COAPTAR](https://socioeconomia.univalle.edu.co/grupo-de-investigacion/conflicto-aprendizaje-y-teoria-de-juegos){target="_blank"}. 
 
 Before coming to Cali I was a postdoc researcher at the Economics Department of Los Andes University and a visiting scholar at Duke University's Center for the History of Political Economy. I hold a PhD in economics from the University of Lille, a MSc in history of economic thought from the University of Paris I, and a BA and MSc in economics from Los Andes University. You can find my [full CV here](Acosta_CV_English.pdf).
 
