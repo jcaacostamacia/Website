@@ -9,8 +9,7 @@ title: "Work in progress"
 ## Central banks/scientization of central banks
 - With Rebeca Gómez Betancourt and Ricardo Salas Díaz. *Economics as expert knowledge at Colombia's Banco de la República, 1923 - 2005*. [This is the beginning of what we hope will eventually become a book-length project.]
 
-- With Beatrice Cherrier, Aurelien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. *To change or not to change. The evolution of forecasting models at the Bank of England (1974-2014)* [R&R at the *Journal of Economic Methodology*].
-
 
 ## History of macroeconomics
 - With Erich Pinzón-Fuchs. *The Brookings Model Project, 1963-1972*.
+- With Erich Pinzón-Fuchs and Camila Orozco-Espinel. *“Of Men and Models”: Macroeconometric modeling and a Scientific World Made for Men*.
