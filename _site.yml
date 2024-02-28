@@ -10,8 +10,8 @@ navbar:
       href: publications.html
     - text: "CV"
       href: https://jcaacostamacia.github.io/Website/Acosta_CV_English.pdf
-    #- text: "Univalle"
-    #  href: univalle.html
+    - text: "Univalle"
+      href: univalle.html
 output:
   html_document:
     css: columns.css

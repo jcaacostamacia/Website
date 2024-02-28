@@ -1,11 +1,22 @@
 ---
-title: "Univalle"
+title: ""
 ---
-Todo el material de mis cursos en Univalle está en la plataforma de la universidad. Estos son algunos recursos adicionales que pueden ser de interés para un público más amplio.
 
-- [Introducción relámpago a *R Markdown*](IntroRMD.html).
+<!-- - [Introducción relámpago a *R Markdown*](IntroRMD.html). -->
+
+# Contacto
+- Correo: juancarlos.acosta@correounivalle.edu.co
+- Oficina: 4017
+- Horario de atención (con cita previa): Lunes y miércoles, 10-11 AM
 
 
+# Cursos
+- Macroeconomía 1
+- Macroeconomía 2
+- Historia del pensamiento económico (plural 1)
+- Los economistas y la economía en Colombia
 
 
+# Dirección de tesis
+Si están interesados en que sea el tutor de su trabajo de grado pueden escribirme para cuadrar una reunión y mirar los temas que les interesan. En principio prefiero la modalidad de revisión de literatura a los trabajos de investigación, pero todo depende del tema específico que tengan en mente. Mi prioridad es que hagan algo que puedan temrminar adecuadamente en dos semestres. También estoy interesado en dirigir la elaboración de informes de pasantía para quienes opten por esta modalidad.
 
