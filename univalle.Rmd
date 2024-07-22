@@ -7,7 +7,7 @@ title: ""
 # Contacto
 - Correo: juancarlos.acosta@correounivalle.edu.co
 - Oficina: 3010
-- Horario de atención (con cita previa): ver enlace de Calendy en Campus Virtual.
+- Horario de atención (con cita previa): ver enlace de Calendly en Campus Virtual.
 <!-- https://calendly.com/juan-acosta-univalle/atencionjacosta -->
 
 # Cursos
