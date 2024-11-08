@@ -12,6 +12,10 @@ navbar:
       href: https://jcaacostamacia.github.io/Website/Acosta_CV_English.pdf
     - text: "Univalle"
       href: univalle.html
+    - text: "Varia"
+      menu:
+        - text: "Tools"
+          href: tools.html
 output:
   html_document:
     css: columns.css

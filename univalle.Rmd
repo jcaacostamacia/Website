@@ -7,7 +7,6 @@ title: ""
 # Contacto
 - Correo: juancarlos.acosta@correounivalle.edu.co
 - Oficina: 3010
-- Horario de atención (con cita previa): ver enlace de Calendly en Campus Virtual.
 <!-- https://calendly.com/juan-acosta-univalle/atencionjacosta -->
 
 # Cursos
@@ -15,7 +14,7 @@ title: ""
 - Macroeconomía 2
 - Historia del pensamiento económico (plural I)
 - Los economistas y la economía en Colombia (electiva)
-
+- Macroeconomía (MEA)
 
 # Dirección de tesis de pregrado
 Si está interesado/a en que sea el tutor de su trabajo de grado puede escribirme para cuadrar una reunión y mirar los temas que le interesan. En principio prefiero la modalidad de revisión de literatura a los trabajos de investigación, pero todo depende del tema específico que tenga en mente. Mi prioridad es que haga algo que le interese pero que también pueda terminar adecuadamente en dos semestres. También estoy interesado en dirigir la elaboración de informes de pasantía para quienes opten por esta modalidad.

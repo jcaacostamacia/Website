@@ -1,0 +1,26 @@
+---
+title: "Tools"
+---
+
+Below are some apps that I use regularly and have found very useful for doing research and/or teaching.
+
+# File and reference management
+- [DEVONthink Pro](https://www.devontechnologies.com/apps/devonthink): I have used DEVONthink Pro to manage all of my primary and secondary sources since 2016. It's expensive but very customizable (smart groups, custom metadata, etc.) and powerful (fast and accurate OCR). Unfortunately it's Mac only.
+  
+  - [Here](https://youtu.be/-S5VGI_h3Gg?si=yuBfxt-Aij8S-oJP)'s a quick overview for historians.
+  
+  - I also use the iPad version ([DEVONthink To Go](https://www.devontechnologies.com/apps/devonthinktogo)) but I'm less enthusiastic about it. It's somewhat convenient as a pdf reader as it can be easily synced with the desktop app, but it's far less powerful.
+  
+  - [Tropy](https://tropy.org) could be a worthy alternative. It came out when I was already too invested in DEVONthink so I've never used used it, but I've heard it's pretty good too.
+  
+- [Zotero](https://www.zotero.org): It's as awesome as everyone says. I keep all my files in DEVONthink and use Zotero only for bibliographic references, but some people use it for both. It's particularly useful for creating public libraries (e.g., for students or collaborative projects) and you can use the [Better BibTeX](https://retorque.re/zotero-better-bibtex/) plugin to create automatic citation keys---so you can export your library and use it in your LaTeX or Markdown documents.
+
+ 
+# Scanning and image processing
+- [BatchPhoto](https://www.batchphoto.com/features.html).
+
+- [Scanner Pro](https://readdle.com/scannerpro).
+
+
+# Others
+- [Espanso](https://espanso.org).
