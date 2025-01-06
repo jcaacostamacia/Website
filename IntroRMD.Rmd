@@ -1,3 +1,0 @@
----
-title: "Introducción relámpago a *R Markdown*"
----

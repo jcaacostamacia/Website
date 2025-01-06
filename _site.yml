@@ -11,7 +11,11 @@ navbar:
     - text: "CV"
       href: https://jcaacostamacia.github.io/Website/Acosta_CV_English.pdf
     - text: "Univalle"
-      href: univalle.html
+      menu:
+        - text: "Contacto"
+          href: univalle_contacto.html
+        - text: "Dirección de tesis"
+          href: univalle_tesis.html          
     - text: "Varia"
       menu:
         - text: "Tools"
