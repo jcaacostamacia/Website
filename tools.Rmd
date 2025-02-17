@@ -11,9 +11,9 @@ Below are some apps that I use regularly and have found very useful for doing re
   
   - I also use the iPad version ([DEVONthink To Go](https://www.devontechnologies.com/apps/devonthinktogo)) but I'm less enthusiastic about it. It's somewhat convenient as a pdf reader as it can be easily synced with the desktop app, but it's far less powerful.
   
-  - [Tropy](https://tropy.org) could be a worthy alternative. It came out when I was already too invested in DEVONthink so I've never used used it, but I've heard it's pretty good too.
+  - [Tropy](https://tropy.org) could be a worthy alternative. It came out when I was already too invested in DEVONthink so I've never used it, but it seems pretty good too.
   
-- [Zotero](https://www.zotero.org): It's as awesome as everyone says. I keep all my files in DEVONthink and use Zotero only for bibliographic references, but some people use it for both. It's particularly useful for creating public libraries (e.g., for students or collaborative projects) and you can use the [Better BibTeX](https://retorque.re/zotero-better-bibtex/) plugin to create automatic citation keys---so you can export your library and use it in your LaTeX or Markdown documents.
+- [Zotero](https://www.zotero.org): It's awesome. I keep all my files in DEVONthink and use Zotero only for bibliographic references, but some people use it for both. It's particularly useful for creating public libraries (e.g., for students or collaborative projects) and you can use the [Better BibTeX](https://retorque.re/zotero-better-bibtex/) plugin to create automatic citation keys---so you can export your library and use it in your LaTeX or Markdown documents.
 
  
 # Scanning and image processing
