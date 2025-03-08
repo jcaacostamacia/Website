@@ -16,8 +16,10 @@ navbar:
           href: univalle_contacto.html
         - text: "Dirección de tesis"
           href: univalle_tesis.html    
-        - text: "Estudios de posgrado/en el exterior"
-          href: univalle_posgrados.html  
+        - text: "Recomendaciones"
+          menu:
+            - text: "Estudios de posgrado/en el exterior"
+              href: univalle_posgrados.html
     - text: "Varia"
       menu:
         - text: "Tools"
