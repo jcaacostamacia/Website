@@ -17,7 +17,9 @@ Below are some apps that I use regularly and have found very useful for doing re
 
  
 # Scanning and image processing
-- [BatchPhoto](https://www.batchphoto.com/features.html).
+- [BatchPhoto](https://www.batchphoto.com/features.html): This is an app that allows you to edit large quantities of photos that you need to modify in the exact same way. For example, if you need to crop the exact same area or increase the contrast of hundreds of pictures, this app allows to do it in just a few steps.  
+
+- [Prizmo](https://creaceed.com/prizmo): It's a scanner and image processing app. It's quite powerful and flexible, but I've mostly used it for processing (OCR and combining into a single PDF) large batches of images.
 
 - [Scanner Pro](https://readdle.com/scannerpro).
 
