@@ -18,12 +18,12 @@ navbar:
           href: univalle_tesis.html    
         - text: "Recomendaciones"
           menu:
-            - text: "Estudios de posgrado/en el exterior"
-              href: univalle_posgrados.html
-            - text: "Lectura y escritura"
-              href: https://leo.uniandes.edu.co
             - text: "Contenido sobre economía"
               href: univalle_contenidoecon.html
+            - text: "Lectura y escritura"
+              href: https://leo.uniandes.edu.co
+            - text: "Estudios de posgrado/en el exterior"
+              href: univalle_posgrados.html
     - text: "Varia"
       menu:
         - text: "Tools"
