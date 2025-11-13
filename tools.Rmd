@@ -9,7 +9,7 @@ Below are some apps that I use regularly and have found very useful for doing re
   
   - [Here](https://youtu.be/-S5VGI_h3Gg?si=yuBfxt-Aij8S-oJP)'s a quick overview for historians.
   
-  - I also use the iPad version ([DEVONthink To Go](https://www.devontechnologies.com/apps/devonthinktogo)) but I'm less enthusiastic about it. It's somewhat convenient as a pdf reader as it can be easily synced with the desktop app, but it's far less powerful.
+  - I also use the iPad version ([DEVONthink To Go](https://www.devontechnologies.com/apps/devonthinktogo)) but I'm less enthusiastic about it. It's somewhat convenient as a PDF reader as it can be easily synced with the desktop app, but it's far less powerful.
   
   - [Tropy](https://tropy.org) could be a worthy alternative. It came out when I was already too invested in DEVONthink so I've never used it, but it seems pretty good too.
   
