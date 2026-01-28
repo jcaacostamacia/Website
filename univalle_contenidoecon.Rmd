@@ -2,11 +2,10 @@
 title: Contenido sobre economía [en construcción]
 ---
 
-Esta es una lista de contenidos, en diferentes formatos, sobre economía. Desde luego no es una lista exhaustiva y además está claramente sesgada hacia mis intereses (macro y banca central).
+Esta es una lista de contenidos, en diferentes formatos, sobre economía. Desde luego no es una lista exhaustiva y además está claramente sesgada hacia mis intereses (coyuntura macro, banca central e historia económica y de la economía).
 
-## Coyuntura y política económica
-### Prensa/blogs/etc.
-La prensa especializada en economía en Colombia es bastante regular pero vale la pena revisarla de vez en cuando---y *algunas* de las columnas regulares suelen ser buenas:
+## Prensa/blogs/etc.
+La prensa especializada en economía en Colombia es bastante regular pero vale la tenerala presente---y algunas de las columnas regulares suelen ser buenas:
 
 - [Portafolio](https://www.portafolio.co)
 
@@ -84,14 +83,14 @@ Sobre las discusiones internacionales hay una infinidad de recusos, pero estos p
 - [#EconSky (@Bluesky)](https://bsky.app/profile/paulgp.com/feed/aaabqfmu2zuck)
 
 
-### Podcasts y YouTube
+## Podcasts y YouTube
 - [Economía para la pipol](https://www.youtube.com/@economiaparalapipol/videos)
 
 - [Políticas Públicas](https://www.youtube.com/@politicaspublicascol/videos)
 
-- [Atemporal](https://www.youtube.com/@atemporalpodcast) [A veces entrevistan a economistas/gente relacionada con política económica]
-
 - [Cuentas y cuentos (Banrep)](https://www.banrep.gov.co/es/podcast)
+
+- [Atemporal](https://www.youtube.com/@atemporalpodcast) [A veces entrevistan a economistas/gente relacionada con política económica]
 
 - [Macromusings](https://macromusings.libsyn.com/)
 
@@ -109,8 +108,8 @@ Sobre las discusiones internacionales hay una infinidad de recusos, pero estos p
 
 - [CNBC](https://www.youtube.com/@CNBC)
 
-## Publicaciones académicas
-...
+- [Acquired](https://www.acquired.fm) [Historias de empresas]
+
 
 
 
