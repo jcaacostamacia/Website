@@ -2,34 +2,34 @@
 title: "Publications"
 ---
 
-- Acosta, Juan, Béatrice Cherrier, Aurélien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. 2024. "Six decades of economic research at the Bank of England." *History of Political Economy* 56 (1). https://doi.org/10.1215/00182702-10956544.
+- Goutsmedt, Aurélien, Francesco Sergi, Béatrice Cherrier, Juan Acosta, Clément Fontan, and François Claveau. 2025. "To change or not to change. The evolution of forecasting models at the Bank of England." *Journal of Economic Methodology* 32 (2). https://doi.org/10.1080/1350178X.2024.2303113
 
-- Goutsmedt, Aurélien, Francesco Sergi, Béatrice Cherrier, Juan Acosta, Clément Fontan, and François Claveau. 2024. "To change or not to change. The evolution of forecasting models at the Bank of England." *Journal of Economic Methodology*. https://doi.org/10.1080/1350178X.2024.2303113.
+- Acosta, Juan, Béatrice Cherrier, Aurélien Goutsmedt, Francesco Sergi, François Claveau, and Clément Fontan. 2024. "Six decades of economic research at the Bank of England." *History of Political Economy* 56 (1). https://doi.org/10.1215/00182702-10956544
 
-- Acosta, Juan, Antonella Rancan, and Francesco Sergi. 2023. "Multi-Country Modelling at the Commission of the European Communities: Centralised and Decentralised Approaches." *European Economic Review* 158. https://doi.org/10.1016/j.euroecorev.2023.104564.
+- Acosta, Juan, Antonella Rancan, and Francesco Sergi. 2023. "Multi-Country Modelling at the Commission of the European Communities: Centralised and Decentralised Approaches." *European Economic Review* 158. https://doi.org/10.1016/j.euroecorev.2023.104564
 
-- Acosta, Juan, and Béatrice Cherrier. 2021. "The transformation of economic analysis at the Board of Governors of the Federal Reserve System during the 1960s." *Journal of the History of Economic Thought* 43 (3). https://doi.org/10.1017/S1053837220000188 / [Preprint](https://osf.io/4zujh/).
+- Acosta, Juan, and Béatrice Cherrier. 2021. "The transformation of economic analysis at the Board of Governors of the Federal Reserve System during the 1960s." *Journal of the History of Economic Thought* 43 (3). https://doi.org/10.1017/S1053837220000188
 
-- Acosta, Juan, and Erich Pinzón-Fuchs. 2019. "Peddling macroeconometric modeling and quantitative policy analysis: the early years of the SSRC's Committee on Economic Stability, 1959-1963." *Œconomia* 9 (3). [Available here](https://journals.openedition.org/oeconomia/6603).
+- Acosta, Juan, and Erich Pinzón-Fuchs. 2019. "Peddling macroeconometric modeling and quantitative policy analysis: the early years of the SSRC's Committee on Economic Stability, 1959-1963." *Œconomia* 9 (3). https://doi.org/10.4000/oeconomia.6603
 
-- Acosta, Juan, and Goulven Rubin. 2019. "Bank behavior in large-scale macroeconometric models of the 1960s." *History of Political Economy* 51 (3). https://doi.org/10.1215/00182702-7551876.
+- Acosta, Juan, and Goulven Rubin. 2019. "Bank behavior in large-scale macroeconometric models of the 1960s." *History of Political Economy* 51 (3). https://doi.org/10.1215/00182702-7551876
 
-- Acosta, Juan. 2016. “Sobre la discusión en torno al establecimiento de un banco nacional en Colombia: 1821-1870” [On the discussion concerning the establishment of a national bank in Colombia: 1821-1870]. In *Ideas y políticas económicas en Colombia durante el primer siglo republicano*, edited by Andrés Álvarez and Juan S. Correa. Universidad de los Andes, CESA. [Available here](https://www.dropbox.com/s/fgkqtldy60anp9i/Acosta%20%282016%29%20Sobre%20la%20discusi%C3%B3n%20en%20torno%20al%20establecimiento%20de%20un%20banco%20nacional%20en%20Colombia%2C%201821-1870.pdf?dl=0).
+- Acosta, Juan. 2016. “Sobre la discusión en torno al establecimiento de un banco nacional en Colombia: 1821-1870” [On the discussion concerning the establishment of a national bank in Colombia: 1821-1870]. In *Ideas y políticas económicas en Colombia durante el primer siglo republicano*, edited by Andrés Álvarez and Juan S. Correa. Universidad de los Andes, CESA. [Available here](https://www.dropbox.com/s/fgkqtldy60anp9i/Acosta%20%282016%29%20Sobre%20la%20discusi%C3%B3n%20en%20torno%20al%20establecimiento%20de%20un%20banco%20nacional%20en%20Colombia%2C%201821-1870.pdf?dl=0)
 
-- Acosta, Juan, and Andrés Álvarez. Editors. 2014. *Ideas monetarias del siglo XIX en Colombia [Monetary ideas in 19th century Colombia]*. Banco de la República. [Available here](https://babel.banrepcultural.org/digital/collection/p17054coll18/id/327).
+- Acosta, Juan, and Andrés Álvarez. Editors. 2014. *Ideas monetarias del siglo XIX en Colombia [Monetary ideas in 19th century Colombia]*. Banco de la República. [Available here](https://babel.banrepcultural.org/digital/collection/p17054coll18/id/327)
 
 ## Working papers
-- Acosta, Juan, Francesco Sergi, and Antonella Rancan. 2022. "Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model." *Economics and Statistics Discussion Paper No. 081/22. Università degli Studi del Molise, Dipartimento di Economia*. [Available here](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html).
+- Acosta, Juan, Francesco Sergi, and Antonella Rancan. 2022. "Centralised and Decentralised Approaches to Multi-Country Macroeconometric Modelling at the Commission of the European Communities: The Short-Lived EUROLINK Model." *Economics and Statistics Discussion Paper No. 081/22. Università degli Studi del Molise, Dipartimento di Economia*. [Available here](https://ideas.repec.org/p/mol/ecsdps/esdp22081.html)
 
-- Acosta, Juan, Beatrice Cherrier, François Claveau, Clément Fontan, Aurélien Goutsmedt, and Francesco Sergi. 2021. “Six Decades of Economic Research at the Bank of England.” *Rebuilding Macroeconomics Working Paper Series*. [Available here]( https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline).
+- Acosta, Juan, Beatrice Cherrier, François Claveau, Clément Fontan, Aurélien Goutsmedt, and Francesco Sergi. 2021. “Six Decades of Economic Research at the Bank of England.” *Rebuilding Macroeconomics Working Paper Series*. [Available here]( https://www.rebuildingmacroeconomics.ac.uk/academia-policy-pipeline)
 
-- Acosta, Juan. 2016. Paul Samuelson, Robert V. Roosa, and the Economics of Credit Rationing. *Working Paper - Center for the History of Political Economy*. [Available here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870684).
+- Acosta, Juan. 2016. Paul Samuelson, Robert V. Roosa, and the Economics of Credit Rationing. *Working Paper - Center for the History of Political Economy*. [Available here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870684)
 
 
 ## Book reviews
-- Acosta, Juan. 2025. “The Federal Reserve: A New History by Robert L. Hetzel.” *History of Political Economy*. https://doi.org/10.1215/00182702-11540246
+- Acosta, Juan. 2025. “The Federal Reserve: A New History by Robert L. Hetzel.” *History of Political Economy* 57 (1). https://doi.org/10.1215/00182702-11540246
 
-- Acosta, Juan. 2021. "Bruna Ingrao and Claudio Sardoni, Banks and Finance in Modern Macroeconomics: A Historical Perspective". *Journal of the History of Economic Thought* 43 (2). https://doi.org/10.1017/S1053837220000589 / [Preprint](https://osf.io/kfxhy/).
+- Acosta, Juan. 2021. "Bruna Ingrao and Claudio Sardoni, Banks and Finance in Modern Macroeconomics: A Historical Perspective". *Journal of the History of Economic Thought* 43 (2). https://doi.org/10.1017/S1053837220000589
 
 
 ## Other publications
